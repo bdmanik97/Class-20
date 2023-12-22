@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: blanchedalmond;
+}
+h1{
+    background-color: aquamarine;
+}
+ .container{
+    margin-top: 15px;
+ }
+
+ .custom{
+    border: 2px solid red;
+    border-radius: 10%;
+    height: 300px;
+    width: 400px;
+ }
